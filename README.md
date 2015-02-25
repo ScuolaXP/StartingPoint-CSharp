@@ -2,17 +2,9 @@
 
 This template can be used to start a new CSharp web app project, as well as for coding dojos and various exercises.
 
-Examples of fun exercises to try:
-
- * Todo list  (see doc directory)
- * Semaphores
- * Lights Out
-
 ## Run the application with
 
-    mvn clean package
-    script/run.sh
-    open http://localhost:8080
+Open the solution with VisualStudio, MonoDevelop or Xamarin Studio and hit 'Run'
 
 ## Deploy the application to Heroku
 
